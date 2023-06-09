@@ -1,0 +1,10 @@
+.MuiAvatar-colorDefault{
+    margin-left: 5px;
+}
+.MuiAvatar-root{
+    width: 25px !important;
+    height: 25px !important;
+}
+footer{
+    text-align: center;
+}
